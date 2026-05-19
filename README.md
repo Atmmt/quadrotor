@@ -1,9 +1,5 @@
 # 四旋翼无人机 - CYT4BB7 双核飞控 + 四路 STC AI8051U 电调 (Dshot600 / PWM)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Flight%20Controller-CYT4BB7%20(M7%2BM0%2B)-green)]()
-[![ESC](https://img.shields.io/badge/ESC-STC%20AI8051U%20x4-orange)]()
-
 ## 项目简介
 
 本项目是一个**完全自制的四旋翼无人机系统**，包括：
