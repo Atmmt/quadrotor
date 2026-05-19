@@ -1,0 +1,10 @@
+# 排除编译文件夹
+.vscode/
+Objects/
+Listings/
+
+# 排除信息文件
+*.uvgui.*
+*.code-workspace
+*.clangd
+*.json
